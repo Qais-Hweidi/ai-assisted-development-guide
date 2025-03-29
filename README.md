@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository was created after my post about completing a project with 100% AI-generated code went viral, reaching 500,000 views in 24 hours
+This repository was created after my post about completing a project with 100% AI-generated code went viral, reaching 500,000 views in 24 hours & 1,000,000 views in 100 hours! 🥳
 
 This repository contains a collection of practical lessons learned from building projects with AI assistance. These insights come from real-world experience using tools like Cursor, Windsurf, Cline, and Claude to develop software projects.
 
