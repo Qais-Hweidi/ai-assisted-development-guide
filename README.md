@@ -2,6 +2,8 @@
 
 > AI can only be as smart as its user.
 
+[![Follow on X](https://img.shields.io/badge/Follow_on_X-@QaisHweidi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/QaisHweidi)
+
 ## Overview
 
 This repository was created after my post about completing a project with 100% AI-generated code went viral, reaching 500,000 views in 24 hours & 1,000,000 views in 100 hours! 🥳
